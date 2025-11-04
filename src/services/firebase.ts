@@ -3,7 +3,6 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 
-// TODO: replace with your real keys (safe for prototype)
 const firebaseConfig = {
   apiKey: "AIzaSyCToBO7psiOX9x-SIZzcvA0EGotfGO16Vo",
   authDomain: "amdt-mobile.firebaseapp.com",
@@ -18,8 +17,3 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);
 export const db = getFirestore(app);
-
-
-
-
-
