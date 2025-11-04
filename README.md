@@ -1,4 +1,4 @@
-This app was developed using React Native (Expo) and integrates simulated data from Auckland Transport (AT) and NIWA. It demonstrates how mobile digital twin systems can support urban analytics, public awareness, and smart city planning.
+This app was developed using React Native (Expo) and integrates simulated data from Auckland Transport (AT) and NIWA.
 
 **Prerequisites**
 
